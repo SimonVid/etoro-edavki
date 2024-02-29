@@ -1,0 +1,1483 @@
+<?xml version="1.0" ?>
+<Envelope xmlns="http://edavki.durs.si/Documents/Schemas/Doh_Div_3.xsd" xmlns:edp="http://edavki.durs.si/Documents/Schemas/EDP-Common-1.xsd">
+	<edp:Header>
+		<edp:taxpayer>
+			<edp:taxNumber>96662522</edp:taxNumber>
+			<edp:taxpayerType>FO</edp:taxpayerType>
+		</edp:taxpayer>
+		<edp:Workflow>
+			<edp:DocumentWorkflowID>O</edp:DocumentWorkflowID>
+		</edp:Workflow>
+	</edp:Header>
+	<edp:AttachmentList/>
+	<edp:Signatures/>
+	<body>
+		<Doh_Div>
+			<Period>2023</Period>
+		</Doh_Div>
+		<Dividend>
+			<Date>2023-01-03</Date>
+			<PayerIdentificationNumber>US9311421039</PayerIdentificationNumber>
+			<PayerName>Walmart Inc.</PayerName>
+			<PayerAddress>702 Southwest 8th St, Bentonville, Arkansas 72716, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.10</Value>
+			<ForeignTax>0.02</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-01-05</Date>
+			<PayerIdentificationNumber>CA1363851017</PayerIdentificationNumber>
+			<PayerName>Canadian Natural Resources Ltd</PayerName>
+			<PayerAddress>855-2 Street SW Suite 2100. T2P 4J8, Calgary</PayerAddress>
+			<PayerCountry>CA</PayerCountry>
+			<Type>1</Type>
+			<Value>0.67</Value>
+			<ForeignTax>0.17</ForeignTax>
+			<SourceCountry>CA</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-01-19</Date>
+			<PayerIdentificationNumber>US5951121038</PayerIdentificationNumber>
+			<PayerName>Micron Technology, Inc.</PayerName>
+			<PayerAddress>8000 South Federal Way, Boise, ID 83716-9632, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.78</Value>
+			<ForeignTax>0.12</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-01-31</Date>
+			<PayerIdentificationNumber>US46625H1005</PayerIdentificationNumber>
+			<PayerName>JPMorgan Chase &amp; Co</PayerName>
+			<PayerAddress>383 Madison Avenue, New York, NY 10017-2070</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.52</Value>
+			<ForeignTax>0.08</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-01</Date>
+			<PayerIdentificationNumber>US35671D8570</PayerIdentificationNumber>
+			<PayerName>Freeport-McMoRan Inc</PayerName>
+			<PayerAddress>Freeport-McMoRan Inc., 333 Avenue North Central, AZ 85004 Phoenix, Arizona, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.19</Value>
+			<ForeignTax>0.03</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-07</Date>
+			<PayerIdentificationNumber>US58470H1014</PayerIdentificationNumber>
+			<PayerName>Medifast Inc</PayerName>
+			<PayerAddress>100 International Drive 18th Floor. 21202, Baltimore</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.19</Value>
+			<ForeignTax>0.18</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-08</Date>
+			<PayerIdentificationNumber>US2441991054</PayerIdentificationNumber>
+			<PayerName>Deere &amp; Co</PayerName>
+			<PayerAddress>One John Deere Place. 61265-8098, Moline</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.20</Value>
+			<ForeignTax>0.03</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-09</Date>
+			<PayerIdentificationNumber>US57636Q1040</PayerIdentificationNumber>
+			<PayerName>Mastercard</PayerName>
+			<PayerAddress>2000 Purchase Street, Purchase, NY 10577</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.52</Value>
+			<ForeignTax>0.08</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-15</Date>
+			<PayerIdentificationNumber>US09260D1072</PayerIdentificationNumber>
+			<PayerName>BlackStone Group LP</PayerName>
+			<PayerAddress>345 Park Avenue. 10154, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.50</Value>
+			<ForeignTax>0.05</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-15</Date>
+			<PayerIdentificationNumber>US49456B1017</PayerIdentificationNumber>
+			<PayerName>Kinder Morgan Inc</PayerName>
+			<PayerAddress>1001 Louisiana Street Suite 1000. 77002, Houston</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.94</Value>
+			<ForeignTax>0.44</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-16</Date>
+			<PayerIdentificationNumber>US0378331005</PayerIdentificationNumber>
+			<PayerName>Apple</PayerName>
+			<PayerAddress>One Apple Park Way, Cupertino, CA 95014-2083, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.38</Value>
+			<ForeignTax>0.06</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-24</Date>
+			<PayerIdentificationNumber>US1729674242</PayerIdentificationNumber>
+			<PayerName>Citigroup</PayerName>
+			<PayerAddress>388 Greenwich Street, New York, NY 10013, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.59</Value>
+			<ForeignTax>0.24</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-24</Date>
+			<PayerIdentificationNumber>US47233W1099</PayerIdentificationNumber>
+			<PayerName>Jefferies Financial Group Inc</PayerName>
+			<PayerAddress>315 Park Avenue South. 10010, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.26</Value>
+			<ForeignTax>0.19</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-02-28</Date>
+			<PayerIdentificationNumber>US03769M1062</PayerIdentificationNumber>
+			<PayerName>Apollo Global Management Inc</PayerName>
+			<PayerAddress>9 West 57th Street 42nd floor. 10019, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.50</Value>
+			<ForeignTax>0.07</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-07</Date>
+			<PayerIdentificationNumber>US1508701034</PayerIdentificationNumber>
+			<PayerName>Celanese Corp</PayerName>
+			<PayerAddress>222 W. Las Colinas Blvd., Suite 900n, Irving, Texas 75039-5421, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.61</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-09</Date>
+			<PayerIdentificationNumber>US5949181045</PayerIdentificationNumber>
+			<PayerName>Microsoft</PayerName>
+			<PayerAddress>One Microsoft Way, Redmond, WA 98052-6399</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.60</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-10</Date>
+			<PayerIdentificationNumber>US30231G1022</PayerIdentificationNumber>
+			<PayerName>Exxon-Mobil</PayerName>
+			<PayerAddress>22777 Springwoods Village Parkway. 77389-1425, Spring</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.59</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-10</Date>
+			<PayerIdentificationNumber>US2605571031</PayerIdentificationNumber>
+			<PayerName>Dow Inc.</PayerName>
+			<PayerAddress>2211 H.H. Dow Way. 48674, Midland</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.69</Value>
+			<ForeignTax>0.10</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-13</Date>
+			<PayerIdentificationNumber>US88579Y1010</PayerIdentificationNumber>
+			<PayerName>3M</PayerName>
+			<PayerAddress>3M Center, St. Paul, MN 55144, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.46</Value>
+			<ForeignTax>0.22</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-16</Date>
+			<PayerIdentificationNumber>US0382221051</PayerIdentificationNumber>
+			<PayerName>Applied Materials Inc</PayerName>
+			<PayerAddress>3050 Bowers Avenue, PO Box 58039, Santa Clara, CA 95052-3299, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.24</Value>
+			<ForeignTax>0.04</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-21</Date>
+			<PayerIdentificationNumber>US91324P1021</PayerIdentificationNumber>
+			<PayerName>UnitedHealth</PayerName>
+			<PayerAddress>Center 9900 Bren Road East. 55343, Minnetonka</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.72</Value>
+			<ForeignTax>0.11</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-23</Date>
+			<PayerIdentificationNumber>US9229087690</PayerIdentificationNumber>
+			<PayerName>Vanguard Total Stock Market ETF</PayerName>
+			<PayerAddress>100 Vanguard Blvd., Malvern, PA 19355, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.17</Value>
+			<ForeignTax>0.33</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-24</Date>
+			<PayerIdentificationNumber>US92204A7028</PayerIdentificationNumber>
+			<PayerName>Vanguard Information Technology</PayerName>
+			<PayerAddress>100 Vanguard Blvd., Malvern, PA 19355, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.72</Value>
+			<ForeignTax>0.11</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-24</Date>
+			<PayerIdentificationNumber>US4642872000</PayerIdentificationNumber>
+			<PayerName>iShares Core S&amp;P 500 ETF</PayerName>
+			<PayerAddress>BlackRock, Inc., 55 East 52nd Street, New York, NY 10055, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.08</Value>
+			<ForeignTax>0.31</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-24</Date>
+			<PayerIdentificationNumber>US4642875565</PayerIdentificationNumber>
+			<PayerName>Ishares Nasdaq Biotechnology </PayerName>
+			<PayerAddress>280 PARK AVENUE STREET 2: 10TH FLOOR CITY: NEW YORK</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.13</Value>
+			<ForeignTax>0.02</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-24</Date>
+			<PayerIdentificationNumber>US4642875235</PayerIdentificationNumber>
+			<PayerName>iShares Semiconductor ETF </PayerName>
+			<PayerAddress>BlackRock Fund Advisors, 400 Howard Street, San Francisco, CA 94105, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.80</Value>
+			<ForeignTax>0.12</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-24</Date>
+			<PayerIdentificationNumber>US9229083632</PayerIdentificationNumber>
+			<PayerName>Vanguard S&amp;P 500 ETF</PayerName>
+			<PayerAddress>The Vanguard Group Instl Investor Information Dept P.O. Box 2900 Valley Forge, PA 19482-2900 United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.45</Value>
+			<ForeignTax>0.07</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-30</Date>
+			<PayerIdentificationNumber>US38141G1040</PayerIdentificationNumber>
+			<PayerName>Goldman Sachs Group Inc</PayerName>
+			<PayerAddress>200 West Street New York, NY 10282 United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.55</Value>
+			<ForeignTax>0.08</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-03-31</Date>
+			<PayerIdentificationNumber>US0605051046</PayerIdentificationNumber>
+			<PayerName>Bank of America Corp</PayerName>
+			<PayerAddress>100 North Tryon Street, Charlotte, NC 28255, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.35</Value>
+			<ForeignTax>0.05</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-04-03</Date>
+			<PayerIdentificationNumber>US0207641061</PayerIdentificationNumber>
+			<PayerName>Alpha Metallurgical Resources, Inc</PayerName>
+			<PayerAddress>340 Martin Luther King Jr. Boulevard. 37620, Bristol</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.29</Value>
+			<ForeignTax>0.04</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-04-03</Date>
+			<PayerIdentificationNumber>US0718131099</PayerIdentificationNumber>
+			<PayerName>Baxter International Inc</PayerName>
+			<PayerAddress>One Baxter Parkway. 60015-4625, Deerfield</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.95</Value>
+			<ForeignTax>0.14</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-04-03</Date>
+			<PayerIdentificationNumber>US9311421039</PayerIdentificationNumber>
+			<PayerName>Walmart Inc.</PayerName>
+			<PayerAddress>702 Southwest 8th St, Bentonville, Arkansas 72716, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.23</Value>
+			<ForeignTax>0.03</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-04-06</Date>
+			<PayerIdentificationNumber>IL0065100930</PayerIdentificationNumber>
+			<PayerName>ZIM Shipping Services Ltd</PayerName>
+			<PayerAddress>9 Andrei Sakharov Street, P.o. Box 15067, Haifa, L3 3190500, Israel</PayerAddress>
+			<PayerCountry>IL</PayerCountry>
+			<Type>1</Type>
+			<Value>31.11</Value>
+			<ForeignTax>7.78</ForeignTax>
+			<SourceCountry>IL</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-04-25</Date>
+			<PayerIdentificationNumber>US5951121038</PayerIdentificationNumber>
+			<PayerName>Micron Technology, Inc.</PayerName>
+			<PayerAddress>8000 South Federal Way, Boise, ID 83716-9632, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.19</Value>
+			<ForeignTax>0.03</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-04-30</Date>
+			<PayerIdentificationNumber>US46625H1005</PayerIdentificationNumber>
+			<PayerName>JPMorgan Chase &amp; Co</PayerName>
+			<PayerAddress>383 Madison Avenue, New York, NY 10017-2070</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.05</Value>
+			<ForeignTax>0.16</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-01</Date>
+			<PayerIdentificationNumber>FR0000121014</PayerIdentificationNumber>
+			<PayerName>LVMH Moet Hennessy Louis Vuitton SA</PayerName>
+			<PayerAddress>22 Avenue Montaigne Paris, 75008 France</PayerAddress>
+			<PayerCountry>FR</PayerCountry>
+			<Type>1</Type>
+			<Value>0.85</Value>
+			<ForeignTax>0.21</ForeignTax>
+			<SourceCountry>FR</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-01</Date>
+			<PayerIdentificationNumber>US35671D8570</PayerIdentificationNumber>
+			<PayerName>Freeport-McMoRan Inc</PayerName>
+			<PayerAddress>Freeport-McMoRan Inc., 333 Avenue North Central, AZ 85004 Phoenix, Arizona, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.63</Value>
+			<ForeignTax>0.24</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-08</Date>
+			<PayerIdentificationNumber>US2441991054</PayerIdentificationNumber>
+			<PayerName>Deere &amp; Co</PayerName>
+			<PayerAddress>One John Deere Place. 61265-8098, Moline</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.57</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-09</Date>
+			<PayerIdentificationNumber>US58470H1014</PayerIdentificationNumber>
+			<PayerName>Medifast Inc</PayerName>
+			<PayerAddress>100 International Drive 18th Floor. 21202, Baltimore</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.26</Value>
+			<ForeignTax>0.34</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-10</Date>
+			<PayerIdentificationNumber>US09260D1072</PayerIdentificationNumber>
+			<PayerName>BlackStone Group LP</PayerName>
+			<PayerAddress>345 Park Avenue. 10154, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.04</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-15</Date>
+			<PayerIdentificationNumber>US49456B1017</PayerIdentificationNumber>
+			<PayerName>Kinder Morgan Inc</PayerName>
+			<PayerAddress>1001 Louisiana Street Suite 1000. 77002, Houston</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>4.34</Value>
+			<ForeignTax>0.65</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-15</Date>
+			<PayerIdentificationNumber>US4180561072</PayerIdentificationNumber>
+			<PayerName>Hasbro Inc</PayerName>
+			<PayerAddress>Pawtucket, Rhode Island, U.S.</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.60</Value>
+			<ForeignTax>0.24</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-15</Date>
+			<PayerIdentificationNumber>US1508701034</PayerIdentificationNumber>
+			<PayerName>Celanese Corp</PayerName>
+			<PayerAddress>222 W. Las Colinas Blvd., Suite 900n, Irving, Texas 75039-5421, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.67</Value>
+			<ForeignTax>0.10</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-22</Date>
+			<PayerIdentificationNumber>DE000A1ML7J1</PayerIdentificationNumber>
+			<PayerName>Vonovia SE</PayerName>
+			<PayerAddress>Vonovia SE, Universitätsstr. 133, 44803 Bochum, Germany</PayerAddress>
+			<PayerCountry>DE</PayerCountry>
+			<Type>1</Type>
+			<Value>7.53</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>DE</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-26</Date>
+			<PayerIdentificationNumber>US1729674242</PayerIdentificationNumber>
+			<PayerName>Citigroup</PayerName>
+			<PayerAddress>388 Greenwich Street, New York, NY 10013, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>3.78</Value>
+			<ForeignTax>0.57</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-30</Date>
+			<PayerIdentificationNumber>US9311421039</PayerIdentificationNumber>
+			<PayerName>Walmart Inc.</PayerName>
+			<PayerAddress>702 Southwest 8th St, Bentonville, Arkansas 72716, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.23</Value>
+			<ForeignTax>0.03</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-05-31</Date>
+			<PayerIdentificationNumber>US03769M1062</PayerIdentificationNumber>
+			<PayerName>Apollo Global Management Inc</PayerName>
+			<PayerAddress>9 West 57th Street 42nd floor. 10019, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.11</Value>
+			<ForeignTax>0.17</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-08</Date>
+			<PayerIdentificationNumber>US5949181045</PayerIdentificationNumber>
+			<PayerName>Microsoft</PayerName>
+			<PayerAddress>One Microsoft Way, Redmond, WA 98052-6399</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.59</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-08</Date>
+			<PayerIdentificationNumber>US4642872000</PayerIdentificationNumber>
+			<PayerName>iShares Core S&amp;P 500 ETF</PayerName>
+			<PayerAddress>BlackRock, Inc., 55 East 52nd Street, New York, NY 10055, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.69</Value>
+			<ForeignTax>0.25</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-08</Date>
+			<PayerIdentificationNumber>US4642875235</PayerIdentificationNumber>
+			<PayerName>iShares Semiconductor ETF </PayerName>
+			<PayerAddress>BlackRock Fund Advisors, 400 Howard Street, San Francisco, CA 94105, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.61</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-08</Date>
+			<PayerIdentificationNumber>US46434V7385</PayerIdentificationNumber>
+			<PayerName>iShares Core MSCI Europe ETF</PayerName>
+			<PayerAddress>280 PARK AVENUE STREET 2: 10TH FLOOR CITY: NEW YORK</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.57</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-08</Date>
+			<PayerIdentificationNumber>US4642875565</PayerIdentificationNumber>
+			<PayerName>Ishares Nasdaq Biotechnology </PayerName>
+			<PayerAddress>280 PARK AVENUE STREET 2: 10TH FLOOR CITY: NEW YORK</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.01</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-09</Date>
+			<PayerIdentificationNumber>US2605571031</PayerIdentificationNumber>
+			<PayerName>Dow Inc.</PayerName>
+			<PayerAddress>2211 H.H. Dow Way. 48674, Midland</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.46</Value>
+			<ForeignTax>0.22</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-09</Date>
+			<PayerIdentificationNumber>US30231G1022</PayerIdentificationNumber>
+			<PayerName>Exxon-Mobil</PayerName>
+			<PayerAddress>22777 Springwoods Village Parkway. 77389-1425, Spring</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.15</Value>
+			<ForeignTax>0.17</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-09</Date>
+			<PayerIdentificationNumber>US7170811035</PayerIdentificationNumber>
+			<PayerName>Pfizer</PayerName>
+			<PayerAddress>235 East 42nd Street, US-10017 New York, NY, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>6.17</Value>
+			<ForeignTax>0.92</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-12</Date>
+			<PayerIdentificationNumber>US88579Y1010</PayerIdentificationNumber>
+			<PayerName>3M</PayerName>
+			<PayerAddress>3M Center, St. Paul, MN 55144, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.69</Value>
+			<ForeignTax>0.25</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-15</Date>
+			<PayerIdentificationNumber>CA0679011084</PayerIdentificationNumber>
+			<PayerName>Barrick Gold</PayerName>
+			<PayerAddress>Brookfield Place, TD Canada Trust Tower, 161 Bay Street, Suite 3700, Toronto, ON M5J 2S1</PayerAddress>
+			<PayerCountry>CA</PayerCountry>
+			<Type>1</Type>
+			<Value>0.60</Value>
+			<ForeignTax>0.15</ForeignTax>
+			<SourceCountry>CA</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-24</Date>
+			<PayerIdentificationNumber>US9229087690</PayerIdentificationNumber>
+			<PayerName>Vanguard Total Stock Market ETF</PayerName>
+			<PayerAddress>100 Vanguard Blvd., Malvern, PA 19355, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>3.53</Value>
+			<ForeignTax>0.53</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-26</Date>
+			<PayerIdentificationNumber>CA8672241079</PayerIdentificationNumber>
+			<PayerName>Suncor Energy Inc.</PayerName>
+			<PayerAddress>P.o. Box 2844, 150 - 6th Avenue S.w.. Calgary</PayerAddress>
+			<PayerCountry>CA</PayerCountry>
+			<Type>1</Type>
+			<Value>5.13</Value>
+			<ForeignTax>1.28</ForeignTax>
+			<SourceCountry>CA</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-27</Date>
+			<PayerIdentificationNumber>US91324P1021</PayerIdentificationNumber>
+			<PayerName>UnitedHealth</PayerName>
+			<PayerAddress>Center 9900 Bren Road East. 55343, Minnetonka</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.46</Value>
+			<ForeignTax>0.37</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-29</Date>
+			<PayerIdentificationNumber>US6311011026</PayerIdentificationNumber>
+			<PayerName>NASDAQ100 Index</PayerName>
+			<PayerAddress>Nasdaq Global Headquarters, 151 W. 42nd Street, New York City, NY, 10036, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.03</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-29</Date>
+			<PayerIdentificationNumber>US9229083632</PayerIdentificationNumber>
+			<PayerName>Vanguard S&amp;P 500 ETF</PayerName>
+			<PayerAddress>The Vanguard Group Instl Investor Information Dept P.O. Box 2900 Valley Forge, PA 19482-2900 United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.93</Value>
+			<ForeignTax>0.14</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-29</Date>
+			<PayerIdentificationNumber>US38141G1040</PayerIdentificationNumber>
+			<PayerName>Goldman Sachs Group Inc</PayerName>
+			<PayerAddress>200 West Street New York, NY 10282 United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.29</Value>
+			<ForeignTax>0.19</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-29</Date>
+			<PayerIdentificationNumber>US92204A7028</PayerIdentificationNumber>
+			<PayerName>Vanguard Information Technology</PayerName>
+			<PayerAddress>100 Vanguard Blvd., Malvern, PA 19355, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.58</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-30</Date>
+			<PayerIdentificationNumber>US0605051046</PayerIdentificationNumber>
+			<PayerName>Bank of America Corp</PayerName>
+			<PayerAddress>100 North Tryon Street, Charlotte, NC 28255, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.96</Value>
+			<ForeignTax>0.15</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-06-30</Date>
+			<PayerIdentificationNumber>US55261F1049</PayerIdentificationNumber>
+			<PayerName>M&amp;T Bank Corporation</PayerName>
+			<PayerAddress>One M&amp;T Plaza 5th floor. 14203, Buffalo</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.05</Value>
+			<ForeignTax>0.31</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-07-01</Date>
+			<PayerIdentificationNumber>US6311011026</PayerIdentificationNumber>
+			<PayerName>NASDAQ100 Index</PayerName>
+			<PayerAddress>Nasdaq Global Headquarters, 151 W. 42nd Street, New York City, NY, 10036, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.02</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-07-03</Date>
+			<PayerIdentificationNumber>US1912161007</PayerIdentificationNumber>
+			<PayerName>Coca-Cola</PayerName>
+			<PayerAddress>One Coca-Cola Plaza, Atlanta, GA 30313-2420</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.29</Value>
+			<ForeignTax>0.04</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-07-03</Date>
+			<PayerIdentificationNumber>US0718131099</PayerIdentificationNumber>
+			<PayerName>Baxter International Inc</PayerName>
+			<PayerAddress>One Baxter Parkway. 60015-4625, Deerfield</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.91</Value>
+			<ForeignTax>0.29</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-07-05</Date>
+			<PayerIdentificationNumber>US0207641061</PayerIdentificationNumber>
+			<PayerName>Alpha Metallurgical Resources, Inc</PayerName>
+			<PayerAddress>340 Martin Luther King Jr. Boulevard. 37620, Bristol</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.25</Value>
+			<ForeignTax>0.04</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-07-05</Date>
+			<PayerIdentificationNumber>US4642874329</PayerIdentificationNumber>
+			<PayerName>iShares 20+ Year Treasury Bond ETF </PayerName>
+			<PayerAddress>BlackRock Fund Advisors, 400 Howard Street, San Francisco, CA 94105, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.22</Value>
+			<ForeignTax>0.07</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-07-13</Date>
+			<PayerIdentificationNumber>US8740391003</PayerIdentificationNumber>
+			<PayerName>Taiwan Semiconductor Manufacturing Co Ltd - ADR</PayerName>
+			<PayerAddress>8 Li-Hsing Road 6 Hsinchu Science Park Hsinchu Taiwan</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.12</Value>
+			<ForeignTax>0.03</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-07-26</Date>
+			<PayerIdentificationNumber>US17275R1023</PayerIdentificationNumber>
+			<PayerName>Cisco Systems Inc</PayerName>
+			<PayerAddress>170 West Tasman Dr, San Jose, California 95134-1706, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.18</Value>
+			<ForeignTax>0.03</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-07-28</Date>
+			<PayerIdentificationNumber>CNE100000296</PayerIdentificationNumber>
+			<PayerName>BYD Co Ltd</PayerName>
+			<PayerAddress>3009, BYD Road, Pingshan District, Shenzhen, China</PayerAddress>
+			<PayerCountry>CN</PayerCountry>
+			<Type>1</Type>
+			<Value>7.48</Value>
+			<ForeignTax>0.75</ForeignTax>
+			<SourceCountry>CN</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-07-31</Date>
+			<PayerIdentificationNumber>US46625H1005</PayerIdentificationNumber>
+			<PayerName>JPMorgan Chase &amp; Co</PayerName>
+			<PayerAddress>383 Madison Avenue, New York, NY 10017-2070</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.09</Value>
+			<ForeignTax>0.31</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-01</Date>
+			<PayerIdentificationNumber>US1266501006</PayerIdentificationNumber>
+			<PayerName>CVS Health Corp</PayerName>
+			<PayerAddress>CVS Health, One CVS Drive, Woonsocket, Rhode Island 02895</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.93</Value>
+			<ForeignTax>0.29</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-01</Date>
+			<PayerIdentificationNumber>US00206R1023</PayerIdentificationNumber>
+			<PayerName>AT&amp;T Inc</PayerName>
+			<PayerAddress>208 South Akard Street, Dallas, TX 75202</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.56</Value>
+			<ForeignTax>0.38</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-02</Date>
+			<PayerIdentificationNumber>US4642874329</PayerIdentificationNumber>
+			<PayerName>iShares 20+ Year Treasury Bond ETF </PayerName>
+			<PayerAddress>BlackRock Fund Advisors, 400 Howard Street, San Francisco, CA 94105, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.33</Value>
+			<ForeignTax>0.05</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-02</Date>
+			<PayerIdentificationNumber>US4642872422</PayerIdentificationNumber>
+			<PayerName>iShares iBoxx $ Investment Grade Corporate Bond ETF</PayerName>
+			<PayerAddress>280 PARK AVENUE STREET 2: 10TH FLOOR CITY: NEW YORK</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.09</Value>
+			<ForeignTax>0.01</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-08</Date>
+			<PayerIdentificationNumber>US2441991054</PayerIdentificationNumber>
+			<PayerName>Deere &amp; Co</PayerName>
+			<PayerAddress>One John Deere Place. 61265-8098, Moline</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.54</Value>
+			<ForeignTax>0.23</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-08</Date>
+			<PayerIdentificationNumber>US58470H1014</PayerIdentificationNumber>
+			<PayerName>Medifast Inc</PayerName>
+			<PayerAddress>100 International Drive 18th Floor. 21202, Baltimore</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.09</Value>
+			<ForeignTax>0.31</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-09</Date>
+			<PayerIdentificationNumber>US09260D1072</PayerIdentificationNumber>
+			<PayerName>BlackStone Group LP</PayerName>
+			<PayerAddress>345 Park Avenue. 10154, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.28</Value>
+			<ForeignTax>0.17</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-15</Date>
+			<PayerIdentificationNumber>US7427181091</PayerIdentificationNumber>
+			<PayerName>Procter &amp; Gamble Co</PayerName>
+			<PayerAddress>One Procter &amp; Gamble Plaza, Cincinnati, Ohio 45202, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.38</Value>
+			<ForeignTax>0.06</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-15</Date>
+			<PayerIdentificationNumber>US4180561072</PayerIdentificationNumber>
+			<PayerName>Hasbro Inc</PayerName>
+			<PayerAddress>Pawtucket, Rhode Island, U.S.</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.31</Value>
+			<ForeignTax>0.20</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-15</Date>
+			<PayerIdentificationNumber>US49456B1017</PayerIdentificationNumber>
+			<PayerName>Kinder Morgan Inc</PayerName>
+			<PayerAddress>1001 Louisiana Street Suite 1000. 77002, Houston</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.15</Value>
+			<ForeignTax>0.32</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-08-31</Date>
+			<PayerIdentificationNumber>US03769M1062</PayerIdentificationNumber>
+			<PayerName>Apollo Global Management Inc</PayerName>
+			<PayerAddress>9 West 57th Street 42nd floor. 10019, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.58</Value>
+			<ForeignTax>0.24</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-05</Date>
+			<PayerIdentificationNumber>US9311421039</PayerIdentificationNumber>
+			<PayerName>Walmart Inc.</PayerName>
+			<PayerAddress>702 Southwest 8th St, Bentonville, Arkansas 72716, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.56</Value>
+			<ForeignTax>0.08</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-08</Date>
+			<PayerIdentificationNumber>US2605571031</PayerIdentificationNumber>
+			<PayerName>Dow Inc.</PayerName>
+			<PayerAddress>2211 H.H. Dow Way. 48674, Midland</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.47</Value>
+			<ForeignTax>0.37</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-11</Date>
+			<PayerIdentificationNumber>US30231G1022</PayerIdentificationNumber>
+			<PayerName>Exxon-Mobil</PayerName>
+			<PayerAddress>22777 Springwoods Village Parkway. 77389-1425, Spring</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.85</Value>
+			<ForeignTax>0.43</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-12</Date>
+			<PayerIdentificationNumber>US88579Y1010</PayerIdentificationNumber>
+			<PayerName>3M</PayerName>
+			<PayerAddress>3M Center, St. Paul, MN 55144, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>3.81</Value>
+			<ForeignTax>0.57</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-12</Date>
+			<PayerIdentificationNumber>GB0008706128</PayerIdentificationNumber>
+			<PayerName>Lloyd's Banking Group PLC</PayerName>
+			<PayerAddress>25 Gresham Street LONDON EC2V 7HN</PayerAddress>
+			<PayerCountry>GB</PayerCountry>
+			<Type>1</Type>
+			<Value>0.41</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>GB</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-15</Date>
+			<PayerIdentificationNumber>US5949181045</PayerIdentificationNumber>
+			<PayerName>Microsoft</PayerName>
+			<PayerAddress>One Microsoft Way, Redmond, WA 98052-6399</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.89</Value>
+			<ForeignTax>0.13</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-15</Date>
+			<PayerIdentificationNumber>US5184391044</PayerIdentificationNumber>
+			<PayerName>Estee Lauder Companies Inc</PayerName>
+			<PayerAddress>767 Fifth Avenue, New York, NY 10153, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.53</Value>
+			<ForeignTax>0.23</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-19</Date>
+			<PayerIdentificationNumber>US91324P1021</PayerIdentificationNumber>
+			<PayerName>UnitedHealth</PayerName>
+			<PayerAddress>Center 9900 Bren Road East. 55343, Minnetonka</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>3.72</Value>
+			<ForeignTax>0.56</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-28</Date>
+			<PayerIdentificationNumber>US67066G1040</PayerIdentificationNumber>
+			<PayerName>NVIDIA Corporation</PayerName>
+			<PayerAddress>NVIDIA Corporation, 2788 San Tomas Expressway, CA 95051 Santa Clara, California</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.02</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-28</Date>
+			<PayerIdentificationNumber>US9229083632</PayerIdentificationNumber>
+			<PayerName>Vanguard S&amp;P 500 ETF</PayerName>
+			<PayerAddress>The Vanguard Group Instl Investor Information Dept P.O. Box 2900 Valley Forge, PA 19482-2900 United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.88</Value>
+			<ForeignTax>0.13</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-28</Date>
+			<PayerIdentificationNumber>US38141G1040</PayerIdentificationNumber>
+			<PayerName>Goldman Sachs Group Inc</PayerName>
+			<PayerAddress>200 West Street New York, NY 10282 United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.47</Value>
+			<ForeignTax>0.37</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-09-29</Date>
+			<PayerIdentificationNumber>US0605051046</PayerIdentificationNumber>
+			<PayerName>Bank of America Corp</PayerName>
+			<PayerAddress>100 North Tryon Street, Charlotte, NC 28255, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>2.51</Value>
+			<ForeignTax>0.38</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-10-02</Date>
+			<PayerIdentificationNumber>US0718131099</PayerIdentificationNumber>
+			<PayerName>Baxter International Inc</PayerName>
+			<PayerAddress>One Baxter Parkway. 60015-4625, Deerfield</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>4.37</Value>
+			<ForeignTax>0.66</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-10-03</Date>
+			<PayerIdentificationNumber>US0207641061</PayerIdentificationNumber>
+			<PayerName>Alpha Metallurgical Resources, Inc</PayerName>
+			<PayerAddress>340 Martin Luther King Jr. Boulevard. 37620, Bristol</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.35</Value>
+			<ForeignTax>0.05</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-10-31</Date>
+			<PayerIdentificationNumber>US46625H1005</PayerIdentificationNumber>
+			<PayerName>JPMorgan Chase &amp; Co</PayerName>
+			<PayerAddress>383 Madison Avenue, New York, NY 10017-2070</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>3.40</Value>
+			<ForeignTax>0.51</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-11-01</Date>
+			<PayerIdentificationNumber>US1266501006</PayerIdentificationNumber>
+			<PayerName>CVS Health Corp</PayerName>
+			<PayerAddress>CVS Health, One CVS Drive, Woonsocket, Rhode Island 02895</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>4.47</Value>
+			<ForeignTax>0.67</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-11-03</Date>
+			<PayerIdentificationNumber>GB0006825383</PayerIdentificationNumber>
+			<PayerName>Persimmon</PayerName>
+			<PayerAddress>Persimmon House, Fulford, York YO19 4FE, United Kingdom</PayerAddress>
+			<PayerCountry>GB</PayerCountry>
+			<Type>1</Type>
+			<Value>9.62</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>GB</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-11-07</Date>
+			<PayerIdentificationNumber>US58470H1014</PayerIdentificationNumber>
+			<PayerName>Medifast Inc</PayerName>
+			<PayerAddress>100 International Drive 18th Floor. 21202, Baltimore</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>8.76</Value>
+			<ForeignTax>1.31</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-11-07</Date>
+			<PayerIdentificationNumber>US09260D1072</PayerIdentificationNumber>
+			<PayerName>BlackStone Group LP</PayerName>
+			<PayerAddress>345 Park Avenue. 10154, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.13</Value>
+			<ForeignTax>0.02</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-11-08</Date>
+			<PayerIdentificationNumber>US09260D1072</PayerIdentificationNumber>
+			<PayerName>BlackStone Group LP</PayerName>
+			<PayerAddress>345 Park Avenue. 10154, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.11</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-11-08</Date>
+			<PayerIdentificationNumber>US2441991054</PayerIdentificationNumber>
+			<PayerName>Deere &amp; Co</PayerName>
+			<PayerAddress>One John Deere Place. 61265-8098, Moline</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.94</Value>
+			<ForeignTax>0.29</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-11-17</Date>
+			<PayerIdentificationNumber>GB0006027295</PayerIdentificationNumber>
+			<PayerName>Morgan Advanced Materials PLC</PayerName>
+			<PayerAddress>York House, Sheet Street, Windsor, United Kingdom</PayerAddress>
+			<PayerCountry>GB</PayerCountry>
+			<Type>1</Type>
+			<Value>6.94</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>GB</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-11-30</Date>
+			<PayerIdentificationNumber>US03769M1062</PayerIdentificationNumber>
+			<PayerName>Apollo Global Management Inc</PayerName>
+			<PayerAddress>9 West 57th Street 42nd floor. 10019, New York</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>1.53</Value>
+			<ForeignTax>0.23</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-06</Date>
+			<PayerIdentificationNumber>FR0000121014</PayerIdentificationNumber>
+			<PayerName>LVMH Moet Hennessy Louis Vuitton SA</PayerName>
+			<PayerAddress>22 Avenue Montaigne Paris, 75008 France</PayerAddress>
+			<PayerCountry>FR</PayerCountry>
+			<Type>1</Type>
+			<Value>0.59</Value>
+			<ForeignTax>0.15</ForeignTax>
+			<SourceCountry>FR</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-08</Date>
+			<PayerIdentificationNumber>US2605571031</PayerIdentificationNumber>
+			<PayerName>Dow Inc.</PayerName>
+			<PayerAddress>2211 H.H. Dow Way. 48674, Midland</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.52</Value>
+			<ForeignTax>0.08</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-11</Date>
+			<PayerIdentificationNumber>US30231G1022</PayerIdentificationNumber>
+			<PayerName>Exxon-Mobil</PayerName>
+			<PayerAddress>22777 Springwoods Village Parkway. 77389-1425, Spring</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>3.73</Value>
+			<ForeignTax>0.56</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-12</Date>
+			<PayerIdentificationNumber>US91324P1021</PayerIdentificationNumber>
+			<PayerName>UnitedHealth</PayerName>
+			<PayerAddress>Center 9900 Bren Road East. 55343, Minnetonka</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.79</Value>
+			<ForeignTax>0.12</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-14</Date>
+			<PayerIdentificationNumber>US5949181045</PayerIdentificationNumber>
+			<PayerName>Microsoft</PayerName>
+			<PayerAddress>One Microsoft Way, Redmond, WA 98052-6399</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.86</Value>
+			<ForeignTax>0.13</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-15</Date>
+			<PayerIdentificationNumber>US1912161007</PayerIdentificationNumber>
+			<PayerName>Coca-Cola</PayerName>
+			<PayerAddress>One Coca-Cola Plaza, Atlanta, GA 30313-2420</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.08</Value>
+			<ForeignTax>0.01</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-15</Date>
+			<PayerIdentificationNumber>US5184391044</PayerIdentificationNumber>
+			<PayerName>Estee Lauder Companies Inc</PayerName>
+			<PayerAddress>767 Fifth Avenue, New York, NY 10153, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.59</Value>
+			<ForeignTax>0.09</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-21</Date>
+			<PayerIdentificationNumber>US9229083632</PayerIdentificationNumber>
+			<PayerName>Vanguard S&amp;P 500 ETF</PayerName>
+			<PayerAddress>The Vanguard Group Instl Investor Information Dept P.O. Box 2900 Valley Forge, PA 19482-2900 United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.36</Value>
+			<ForeignTax>0.05</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-27</Date>
+			<PayerIdentificationNumber>US4128221086</PayerIdentificationNumber>
+			<PayerName>Harley-Davidson Inc</PayerName>
+			<PayerAddress>3700 West Juneau Avenue, Milwaukee, WI 53208-2818, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.14</Value>
+			<ForeignTax>0.02</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-28</Date>
+			<PayerIdentificationNumber>US38141G1040</PayerIdentificationNumber>
+			<PayerName>Goldman Sachs Group Inc</PayerName>
+			<PayerAddress>200 West Street New York, NY 10282 United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.55</Value>
+			<ForeignTax>0.08</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-28</Date>
+			<PayerIdentificationNumber>US67066G1040</PayerIdentificationNumber>
+			<PayerName>NVIDIA Corporation</PayerName>
+			<PayerAddress>NVIDIA Corporation, 2788 San Tomas Expressway, CA 95051 Santa Clara, California</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.01</Value>
+			<ForeignTax>0.00</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-29</Date>
+			<PayerIdentificationNumber>US92840M1027</PayerIdentificationNumber>
+			<PayerName>Vistra Corp</PayerName>
+			<PayerAddress>6555 Sierra Drive, Irving, TX 75039, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.28</Value>
+			<ForeignTax>0.04</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+		<Dividend>
+			<Date>2023-12-29</Date>
+			<PayerIdentificationNumber>US0605051046</PayerIdentificationNumber>
+			<PayerName>Bank of America Corp</PayerName>
+			<PayerAddress>100 North Tryon Street, Charlotte, NC 28255, United States</PayerAddress>
+			<PayerCountry>US</PayerCountry>
+			<Type>1</Type>
+			<Value>0.72</Value>
+			<ForeignTax>0.11</ForeignTax>
+			<SourceCountry>US</SourceCountry>
+			<ReliefStatement/>
+		</Dividend>
+	</body>
+</Envelope>

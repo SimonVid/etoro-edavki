@@ -13,8 +13,8 @@ import datetime
 import os
 import glob
 import argparse
-#import locale
-#import prettytable
+# import locale
+# import prettytable
 from xml.dom import minidom
 
 from openpyxl import Workbook
